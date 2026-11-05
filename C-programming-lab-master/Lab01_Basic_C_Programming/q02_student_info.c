@@ -11,8 +11,8 @@
 
 int main(void) {
     // Student Information Variables
-    char name[] = "Md Yasin Arafat";
-    char id[] = "1022"; // Replace with your actual Student ID
+    char name[] = "Sm Navid Hassan Pavel";
+    char id[] = "1004"; // Replace with your actual Student ID
     char department[] = "Computer Science and Engineering (CSE)";
     char university[] = "Frist Capital University of Bangladesh"; // Replace with your University name
 
