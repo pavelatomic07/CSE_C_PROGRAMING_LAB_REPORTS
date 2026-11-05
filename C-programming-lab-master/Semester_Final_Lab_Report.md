@@ -1,11 +1,11 @@
 # Structured Programming Language (SPL) - Semester Final Lab Report
 
-**Course:** Structured Programming Language (SPL)  
-**Target:** Semester Final Lab Report (Batch 33 & 34)  
-**Student Name:** Md. Shahariar  
-**Student ID:** 241-000-000  
-**Department:** Department of Computer Science and Engineering  
-**University:** Green University of Bangladesh  
+**Course       : Structured Programming Language (SPL)  
+**Target       : Semester Final Lab Report (Batch 34)  
+**Student Name : Sm Navid Hassan Pavel
+**Student ID   : 1004  
+**Department   : Department of Computer Science and Engineering  
+**University   : First Capital University Of Bangladesh  
 
 ---
 
