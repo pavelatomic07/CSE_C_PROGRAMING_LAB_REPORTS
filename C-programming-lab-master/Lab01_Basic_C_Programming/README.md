@@ -52,8 +52,8 @@ flowchart TD
 
 int main(void) {
     // Student Information Variables
-    char name[] = "Md Yasin Arafat";
-    char id[] = "1022"; // Replace with your actual Student ID
+    char name[] = "SM NAVID HASSAN PAVEL";
+    char id[] = "1004"; // Replace with your actual Student ID
     char department[] = "Computer Science and Engineering (CSE)";
     char university[] = "Frist Capital University of Bangladesh"; // Replace with your University name
 
@@ -80,8 +80,8 @@ No input required.
 ===========================================
           STUDENT INFORMATION             
 ===========================================
-Name       : Md Yasin Arafat
-ID         : 1022
+Name       : SM NAVID HASSAN PAVEL
+ID         : 1004
 Department : Computer Science and Engineering (CSE)
 University : Frist Capital University of Bangladesh
 ===========================================
